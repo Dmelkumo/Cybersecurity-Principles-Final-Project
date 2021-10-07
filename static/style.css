@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    margin: auto;
+}
+
+label {
+    text-align: left;
+    font-size: 1.25em;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: auto;
+    box-sizing: border-box;
+    border: 2px solid #697a89;
+    border-radius: 4px;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+a {
+    margin: 1.25em;
+}
+
+nav {
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+    width: 35%;
+
+}
+
+footer {
+    margin: auto;
+    padding: 3.5em 20px 3.5em;
+    width: 100%;
+    background-color: #187b80;
+    color: #eee;
+    font-family: serif;
+    text-align: center;
+    font-size: large;
+
+}
